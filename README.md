@@ -8,5 +8,5 @@ Submissions for Advent of Code
 
 2024: Java - 25/25 using IntelliJ IDE
 
-2025: Python - 3/12 using VSCode
+2025: Python - 4/12 using VSCode
 
